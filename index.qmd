@@ -1,94 +1,55 @@
-<h1 id="brand-title"> The Generation of Participation in Democracy </h1>
+<h1 id="brand-title">Generation of Participation in Democracy (GPD)</h1>
 <h2 id="brand-subtitle">A Sustainable Operating System for the Americas</h2>
 
-Democratic participation depends on a healthy and informed electorate. The
-**Generation of Participation in Democracy (GPD)** in the Americas is an
-innovation accelerator designed to multiply diverse efforts to promote
-sustainability in all its forms, as outlined in the United Nations [Sustainable
-Development Goals](https://sdgs.un.org/goals). 
-More sustainable social and economic institutions better provide the 
-bare essentials of food, water, and shelter, to enable informed democratic participation.
-
-### Indigenous Public Health and **Instituto Dourados**
-
-One primary goal of the GPD is to better secure Indigenous peoples who have
-inhabited the Americas for tens of thousands of years. Our [Instituto
-Dourados](https://projeto-dourados.org) is currently our flagship program
-innovating new systems to promote Indigenous public health, working with 
-Brazilian colleagues 
-fusing international collaboration, social science and epidemiology, and
-expanding access through multilingual publishing of project results.
 
 
-### Educational Initiatives & Security
 
-We develop new educational initiatives to meet the needs of modern students across the Americas, focusing on all levels of capacity, neurodivergence, and need. 
+<p><strong>Public Benefit Mission.</strong> GPD is a California Public Benefit Corporation advancing sustainable, participatory societies across the Americas. Our specific public benefit is to strengthen democratic capacity, public health, and institutional resilience through integrated social science, technology, and field-based collaboration.</p>
 
-Beyond pedagogy, we facilitate technologies and practices for securing children online. Our privacy-by-default systems provide distributed social and geospatial visualization and analysis. 
+<p><strong>Transparency.</strong> Meaningful democratic participation requires transparency. GPD operates under a principle of radical transparency wherever possible—making methods, data practices, and institutional decisions legible and accountable to the communities we serve.</p>
 
-By treating client servers as edge devices, our solutions engineers work with
-school districts and similar institutions to help them crunch data locally so 
-sensitive data is never transmitted outside the district, but they still can
-leverage cloud-based infrastructure to visualize, analyze, and act on real-time
-network security observations.
+<p>We scale efforts aligned with the United Nations <a href="https://sdgs.un.org/goals">Sustainable Development Goals</a>, focusing on the foundations of participation: access to essential resources, reliable information, and secure institutions.</p>
 
+<h3>Indigenous Public Health — Instituto Dourados</h3>
 
-### Innovation Through Recursive Intellience
+<p>Our first Flagship Institute, the <a
+href="https://institutodourados.org">Instituto Dourados</a>, develops and
+deploys public health systems in collaboration with Indigenous communities,
+integrating epidemiology, social science, and multilingual knowledge
+sharing.</p>
 
-The GPD is a **recursive acronym:** we are an organization supporting a new _cultural_
-**generation** of participation in democracy, with the goal of expanded
-*creative* **generation** of ever greater democratic participation. 
+<h3>Education and Digital Security</h3>
 
-Across the Americas, we have much to learn from each other on how to promote democratic participation, which provides the foundation for a more peaceful and joyous coexistence.
+<p>We design educational systems and privacy-first technologies that enable
+institutions to analyze sensitive data locally, maintaining data sovereignty
+while supporting real-time decision-making.</p>
 
-We are also at the dawn of a new social science. Theoretical development
-requires a rigorous analysis of real-world friction between models and actual
-behavior. Computational models now predict social dynamics with
-precision, given some basic assumptions. 
+<h3>Corporate Information</h3>
 
-While social science has been weaponized as a "dark-money" tool to suppress
-participation, the GPD inverts this advantage.  We recursively apply insights of
-social and cognitive science and cultural evolution to amplify participatory
-governance. 
-
-The GPD is designed as an institutional battering ram against
-anti-democratic forces, securing the system against future anti-participatory
-insurrections.
+<p><strong>Legal Structure:</strong> California Public Benefit Corporation<br>
+<strong>IRS Employer Identification Number (EIN):</strong> <br>
+<strong>Transparency:</strong> <a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a></p>
 
 <br>
 
-
 ![](GPD-Anchor-Logo.png){width=450px fig-align="center" #anchor}
 
+<h3>Founder’s Statement</h3>
 
-### Founder's Statement
-
-
-As a computational social scientist, I founded the GPD to serve as more than a
-passive non-profit research institute. 
-Instead, it is a functional operating system for sustainable futures. 
-It is my limited attempt at building an institution that supports the [Sustainability
-VIBE](about.qmd#democracy-and-sustainability) I advocate, 
-following the UN Sustainable Development Goals.
-Through GPD Américas and my intelligence and education company, [SubtleTea
-Solutions](https://subtleteasolutions.com), I am developing computational
-and scientific tools to create sustainable futures for all Americans, Southern,
-Central, and Northern, _participando juntos_.
+<p>GPD is built to move from theory to implementation—combining research, infrastructure, and education to support sustainable futures across the Americas.</p>
 
 ![](cafecito-pic.png){.float-left height=210px} 
 
 <p style="font-size: 18px">
-_In solidarity and service to a more participatory future,_
+<em>In solidarity and service,</em>
 </p>
 
 ![](signature.jpg){width=200px}
 
 <p style="font-size: 22px">
-**Matt Turner, PhD** 
+<strong>Matt Turner, PhD</strong>
 </p>
 
-Founder & Architect, GPD Américas
+<p>Founder & Architect, GPD Américas</p>
 
-[contáctame por email](mailto:matt@mat.phd)
-
-<!-- ::: -->
+<p><a href="mailto:matt@mat.phd">Contact</a></p>

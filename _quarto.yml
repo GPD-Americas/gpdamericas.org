@@ -7,7 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: institutodourados.qmd
+      - href: giving.qmd
+
     background: "#b0c7c4"
     foreground: "#628089"
 

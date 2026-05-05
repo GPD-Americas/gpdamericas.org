@@ -1,0 +1,105 @@
+---
+title: "Instituto Dourados"
+format: 
+  html: default
+  pdf: default
+---
+
+## Flagship Institute Budget & Plan
+
+Instituto Dourados is the Flagship Institute of the Generation of Participation
+in Democracy (GPD). As a Flagship, it serves as a primary site of development,
+testing, and deployment—where research, infrastructure, and field collaboration
+are integrated into working systems. The goal is not only to study sustainable
+participation, but to build and validate it in practice.
+
+:::{.text-center}
+
+[Download This Budget as a PDF](institutodourados.pdf){.btn .btn-primary target="_blank"} 
+
+:::
+
+## Purpose and Plan (2026–2027)
+
+This budget bridges Instituto Dourados from its current startup phase to autonomous operation beginning January 2027. The 2026 bridge year prioritizes:
+
+- Director capacity (research, operations, and fundraising)
+- Field integration with Brazilian partners
+- Institutional visibility through conferences and collaboration
+- Initial exchange programming (intercâmbio)
+
+The objective is a self-sustaining institute by 2027, with expanded staffing and stable funding streams.
+
+### 2026 Bridge Budget
+
+This budget enables:
+
+- Three field visits to Brazil in 2026 (Q2–Q4)
+- Conference participation and partner coordination
+- On-site collaboration and exchange programming
+- Focused time allocation for institutional buildout
+
+The 2026 bridge year is designed to:
+
+- Establish recurring funding streams
+- Expand partnerships and institutional visibility
+- Support initial hiring and program growth
+
+  <br>
+
+| Category   | Item                  | Description                              | Cost     |
+|------------|-----------------------|------------------------------------------|----------|
+| Personnel  | Matt (FT Salary)      | 9 Months @ $150k/yr (1.0 FTE)            | $112,500 |
+| Personnel  | Iza (0.2 Effort)      | 9 Months @ $150k/yr (0.2 FTE)            | $22,500  |
+| Personnel  | Benefits/Tax          | 25% Burden on Compensation               | $33,750  |
+| Operations | 4 Field Sprints       | Dourados, Bahia, MedTrop 2026            | $27,000  |
+| **TOTAL**  |                       |                                          | **$195,750** |
+
+ <br>
+
+
+### 2027 First Full Year of Full-Time Operation
+
+Beginning January 2027, Instituto Dourados transitions to full-time directorship and autonomous operation. 
+
+#### 2027 First-Year Operating Budget
+
+| Category   | Item                             | Description                                                                 | Cost     |
+|------------|----------------------|-----------------------------|----------|
+| Personnel  | Iza (Director)       | $200k/yr (1.0 FTE)                                                          | $200,000 |
+| Personnel  | Matt (Director)      | $200k/yr (1.0 FTE)                                                          | $200,000 |
+| Personnel  | PT Senior Intern, US 1 | $20/hr (0.25 FTE)                                                           | $10,400  |
+| Personnel  | PT Senior Intern, US 2 | $20/hr (0.25 FTE)                                                           | $10,400  |
+| Personnel  | Benefits/Tax                     | 25% Burden on Compensation | $105,200 |
+| Operations | 2 Field Residencies              | California (mountain + Central Coast; community-anchored collaboration)     | $27,000  |
+| Operations | 2 Director Visits               | Bahia; sustainability & public health convening (Q4 target)                 | $27,000  |
+| **TOTAL**  |                                  |                                                                             | **$580,000** |
+
+## Fiscal Structure
+
+During the bridge period, Instituto Dourados may seek and operate under fiscal sponsorship while its parent organization, GPD, completes 501(c)(3) status.
+
+Under this structure:
+
+- Funds are held and administered by a sponsoring institution
+- Donations remain tax-deductible for contributors
+- Assets transfer to GPD upon approval of nonprofit status
+
+An alternative pathway is direct administration through existing institutional
+accounts to support salary and travel during the transition period. We are
+opening our doors to the general public first, though, before seeking larger
+institutional investors.
+
+## Director Commitment
+
+The directors commit to matching institutional support through active
+fundraising during 2026. This alignment ensures that bridge funding directly
+accelerates long-term sustainability and growth.
+
+## Outlook
+
+Instituto Dourados is designed as a replicable model: a field-anchored institute
+that integrates research, infrastructure, and education to produce measurable
+improvements in public health and democratic participation.
+
+
