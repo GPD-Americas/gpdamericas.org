@@ -26,9 +26,9 @@ while supporting real-time decision-making.</p>
 
 <h3>Corporate Information</h3>
 
-<p><strong>Legal Structure:</strong> California Public Benefit Corporation<br>
-<strong>IRS Employer Identification Number (EIN):</strong> <br>
-<strong>Transparency:</strong> <a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a></p>
+<p><strong>Legal Structure:</strong>  California Public Benefit Corporation<br>
+<strong>IRS Employer Identification Number (EIN):</strong>  41-4992916<br>
+<strong>Transparency inquiries/concerns:</strong>  <a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a></p>
 
 <br>
 
@@ -36,7 +36,11 @@ while supporting real-time decision-making.</p>
 
 <h3>Founder’s Statement</h3>
 
-<p>GPD is built to move from theory to implementation—combining research, infrastructure, and education to support sustainable futures across the Americas.</p>
+<p>
+GPD is built to move from theory to implementation—combining research,
+infrastructure, and education to support sustainable futures across the
+Americas.
+</p>
 
 ![](cafecito-pic.png){.float-left height=210px} 
 

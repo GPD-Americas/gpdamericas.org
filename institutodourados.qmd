@@ -7,11 +7,14 @@ format:
 
 ## Flagship Institute Budget & Plan
 
-Instituto Dourados is the Flagship Institute of the Generation of Participation
+Instituto Dourados ([institutodourados.org](https://institutodourados.org)) 
+is the Flagship Institute of the Generation of Participation
 in Democracy (GPD). As a Flagship, it serves as a primary site of development,
 testing, and deployment—where research, infrastructure, and field collaboration
 are integrated into working systems. The goal is not only to study sustainable
 participation, but to build and validate it in practice.
+
+
 
 :::{.text-center}
 
@@ -21,14 +24,22 @@ participation, but to build and validate it in practice.
 
 ## Purpose and Plan (2026–2027)
 
-This budget bridges Instituto Dourados from its current startup phase to autonomous operation beginning January 2027. The 2026 bridge year prioritizes:
+This budget bridges Instituto Dourados from its current startup phase to
+autonomous operation with a 5-10 year operating endownment beginning January 2027. The 2026 bridge year prioritizes:
 
 - Director capacity (research, operations, and fundraising)
 - Field integration with Brazilian partners
 - Institutional visibility through conferences and collaboration
-- Initial exchange programming (intercâmbio)
+- 
 
-The objective is a self-sustaining institute by 2027, with expanded staffing and stable funding streams.
+The objective for Instituto Dourados is to become a self-sustaining research
+exchange program by 2027. In 2027 we will expand staffing to support more student
+intern trainees and add a new field site, likely in the state of Bahia.
+_Self-sustaining_ here means the Instituto's endowment reaches a level
+to guarantee 5-10 years of a growth-oriented budget. 
+
+
+
 
 ### 2026 Bridge Budget
 
@@ -75,18 +86,15 @@ Beginning January 2027, Instituto Dourados transitions to full-time directorship
 | Operations | 2 Director Visits               | Bahia; sustainability & public health convening (Q4 target)                 | $27,000  |
 | **TOTAL**  |                                  |                                                                             | **$580,000** |
 
+
+
 ## Fiscal Structure
 
 During the bridge period, Instituto Dourados may seek and operate under fiscal sponsorship while its parent organization, GPD, completes 501(c)(3) status.
 
-Under this structure:
-
-- Funds are held and administered by a sponsoring institution
-- Donations remain tax-deductible for contributors
-- Assets transfer to GPD upon approval of nonprofit status
 
 An alternative pathway is direct administration through existing institutional
-accounts to support salary and travel during the transition period. We are
+accounts to support salary and travel during the transihhhtion period. We are
 opening our doors to the general public first, though, before seeking larger
 institutional investors.
 
