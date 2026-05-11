@@ -3,13 +3,31 @@ title: "Governance Documents"
 format:
   html:
     toc: true
+  pdf: default
 ---
 
 # Generation of Participation in Democracy
 
-Founder-stage governance materials for initial 501(c)(3) application preparation.
+This page contains founding documents for the formation of a California Public
+Benefit corporation and Internal Revenue Service tax exemption under section
+501(c)(3): the Generation of Participation in Democracy.
 
-# Sole Director Written Consent
+We are a California Public Benefit corporation in good standing. Our application
+for 501(c)(3) tax exemption has been submitted for review by the IRS.
+
+To apply for the 501(c)(3) exemption there must be a board with a president,
+secretary, and treasurer. For now, [Matthew A. Turner, PhD](https://mat.phd) is the
+sole board member filling all three roles. This is temporary. 
+
+Dr. Turner will serve as President of the GPD for the foreseeable future. Dr.
+Turner is currently interviewing candidates to fill the roles of Secretary and
+Treasurer.
+
+The documents below establish sole directorship, bylaws, and a conflict of
+interest policy.
+
+
+## Sole Director Written Consent
 
 UNANIMOUS WRITTEN CONSENT
 OF THE SOLE DIRECTOR
@@ -18,37 +36,167 @@ GENERATION OF PARTICIPATION IN DEMOCRACY
 
 The undersigned, being the sole director of Generation of Participation in Democracy, a California nonprofit public benefit corporation, hereby adopts the following resolutions by unanimous written consent pursuant to applicable California law.
 
-1. Adoption of Bylaws
+### 1. Adoption of Bylaws
 
-RESOLVED, that the bylaws presented to the director are hereby adopted as the bylaws of the corporation.
+RESOLVED, that the bylaws presented to the director are hereby adopted as the
+bylaws of the corporation (see the [Bylaws section](#bylaws) below).
 
-2. Appointment of Officers
+### 2. Appointment of Officers
 
 RESOLVED, that the following officers are appointed to serve until resignation, removal, or successor appointment:
 
-President: Matthew Turner
-Secretary: Matthew Turner
-Treasurer: Matthew Turner
+President: Matthew A. Turner, PhD
+Secretary: Matthew A. Turner, PhD
+Treasurer: Matthew A. Turner, PhD
 
-3. Conflict of Interest Policy
+### 3. Conflict of Interest Policy
 
-RESOLVED, that the Conflict of Interest Policy presented to the director is hereby adopted.
+RESOLVED, that the [Conflict of Interest
+Policy](#conflict-of-interest-policy-1) presented to the director is
+hereby adopted (see below).
 
-4. Authorization to Obtain Tax-Exempt Status
+
+### 4. Authorization to Obtain Tax-Exempt Status
 
 RESOLVED, that the officers of the corporation are authorized and directed to prepare and submit Form 1023 and any related filings necessary to obtain recognition of exemption under Section 501(c)(3) of the Internal Revenue Code.
 
-5. Banking Authority
+### 5. Banking Authority
 
 RESOLVED, that the officers are authorized to establish bank accounts and conduct ordinary financial operations on behalf of the corporation.
 
-6. Ratification
+### 6. Ratification
 
 RESOLVED, that all actions previously taken on behalf of the corporation consistent with these resolutions are ratified and approved.
 
-DATED: __________________
+DATED: 11 May 2026
 
 
-________________________________
+![](signature.jpg){width=200px}
+
+Matthew A. Turner, PhD
+
+President & Sole Director
+
+
+## Bylaws
+
+BYLAWS
+OF
+GENERATION OF PARTICIPATION IN DEMOCRACY
+
+### ARTICLE I — NAME
+
+The name of this corporation is Generation of Participation in Democracy.
+
+### ARTICLE II — PURPOSE
+
+This corporation is organized exclusively for charitable, educational, scientific, and related exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.
+
+### ARTICLE III — OFFICES
+
+The principal office of the corporation shall be located in California or such other location as determined by the Board of Directors.
+
+### ARTICLE IV — DIRECTORS
+
+#### Section 1. Powers  
+
+The affairs of the corporation shall be managed by its Board of Directors.
+
+#### Section 2. Number  
+
+The authorized number of directors shall be not less than one (1) nor more than seven (7), with the exact number fixed by resolution of the Board.
+
+#### Section 3. Terms  
+
+Directors shall serve until resignation, removal, or successor appointment.
+
+#### Section 4. Meetings  
+Meetings may be held in person or by electronic communication.
+
+#### Section 5. Written Consent  
+Any action required or permitted to be taken by the Board may be taken without a meeting if written consent is provided.
+
+### ARTICLE V — OFFICERS
+
+The officers of the corporation shall include a President, Secretary, and Treasurer, and may include additional officers as determined by the Board.
+
+### ARTICLE VI — CONFLICTS OF INTEREST
+
+The corporation shall maintain and comply with a Conflict of Interest Policy.
+
+### ARTICLE VII — LIMITATIONS
+
+No part of the net earnings of the corporation shall inure to the benefit of any private individual except for reasonable compensation for services rendered.
+
+The corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.
+
+### ARTICLE VIII — DISSOLUTION
+
+Upon dissolution, the assets of the corporation shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.
+
+### ARTICLE IX — AMENDMENTS
+
+These bylaws may be amended by the Board of Directors.
+
+### CERTIFICATION
+
+These bylaws were adopted on 11 May 2026.
+
+![](signature.jpg){width=200px}
+
 Matthew Turner
-Sole Director
+
+Secretary
+
+
+## Conflict of Interest Policy
+
+CONFLICT OF INTEREST POLICY OF THE GENERATION OF PARTICIPATION IN DEMOCRACY
+
+### Article I — Purpose
+
+The purpose of this policy is to protect the interests of the corporation when considering transactions or arrangements that may benefit the private interests of a director, officer, or key person.
+
+### Article II — Duty to Disclose
+
+Interested persons shall disclose any actual or potential conflicts of interest.
+
+### Article III — Procedures
+
+The Board shall determine whether a conflict exists and whether any proposed arrangement is fair, reasonable, and in the best interests of the corporation.
+
+### Article IV — Records
+
+The minutes of the corporation shall document disclosures, determinations, and approvals related to conflicts of interest.
+
+### Article V — Compensation
+
+Compensation arrangements shall be reviewed and approved using reasonable and transparent procedures.
+
+### Article VI — Affiliated Entities and Transparency
+
+The corporation may collaborate with or receive operational support from
+affiliated entities, including Subtlety Solutions (STS). STS is an LLC owned by
+director, president, treasurer, and secretary Matthew Turner. 
+
+The corporation recognizes that overlapping leadership, infrastructure,
+technical services, or financial relationships may create actual or perceived
+conflicts of interest. 
+
+Such relationships are permitted only when fully disclosed, documented, and
+determined to be fair, reasonable, and in the best interests of the corporation.
+
+The corporation therefore maintains a robust transparency and disclosure
+framework, including documented approvals, public-facing financial reporting
+where appropriate, and formal conflict review procedures intended to preserve
+the corporation’s charitable mission and public trust.
+
+
+ADOPTED: 11 May 2026
+
+
+![](signature.jpg){width=200px}
+
+Matthew Turner
+
+Secretary

@@ -1,7 +1,8 @@
 ---
 title: "Instituto Dourados"
 format: 
-  html: default
+  html: 
+    toc: true
   pdf: default
 ---
 
@@ -16,11 +17,11 @@ participation, but to build and validate it in practice.
 
 
 
-:::{.text-center}
-
-[Download This Budget as a PDF](institutodourados.pdf){.btn .btn-primary target="_blank"} 
-
-:::
+<!-- :::{.text-center} -->
+<!---->
+<!-- [Download This Budget as a PDF](institutodourados.pdf){.btn .btn-primary target="_blank"}  -->
+<!---->
+<!-- ::: -->
 
 ## Purpose and Plan (2026–2027)
 

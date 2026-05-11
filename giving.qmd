@@ -1,27 +1,51 @@
 ---
 title: "Support GPD Américas"
-format: html
+format: 
+  html:
+    tbl-cap-location: bottom
+    toc: true
+  pdf: default
+
 ---
 
 ## Support the Generation of Participation in Democracy
 
-Your support enables the development of sustainable, participatory institutions across the Americas. Contributions fund research, field programs, and infrastructure through our Flagship Institute, Instituto Dourados.
+Your support enables the development of sustainable, participatory institutions
+across the Americas. Currently, 100% of contributions go to fund research, field programs, and infrastructure through our Flagship Institute, Instituto Dourados.
+Once we can fund the first two years of operation of Instituto Dourados we may
+consider expanding GPD's institutional portfolio, allocating resources
+beyond just Instituto Dourados.
 
 Opportunities to support other GPD Américas organizations will be announced as
 they become available.
 
 ## Contribution Tiers
 
+The following table lists the minimum contribution for six tiers of support.
+Different tiers have different perks, as indicated by superscripts and 
+explained following the table.
+
 | Tier     | Min. Contribution | Description         |
 |----------|------------|-----------------------|
-| Founder  | $1,000,000          | Institutional founding support |
-| Platinum | $100,000            | Major program sponsorship |
-| Gold     | $10,000             | Program and research support |
-| Silver   | $1,000              | Core operational support |
-| Reader   | $75/year            | Includes annual journal subscription |
-| Hero     | ≥ $1                | Open participation |
+| Founder$^{1,2,3}$  | \$1,000,000          | Institutional founding support |
+| Platinum$^{1,2,3}$ | \$100,000            | Major program sponsorship |
+| Gold$^{1,2,3}$     | \$10,000             | Program and research support |
+| Silver$^{1,2}$   | \$1,000              | Travel and entry-level salary  |
+| Reader$^{1}$   | \$100            | Help pay infrastructure costs |
+| Hero     | ≥ \$1                | Help as you are able, and you're our hero |
 
-The **Reader** tier includes a complimentary yearly subscription to the *Instituto Dourados Quarterly Journal*.
+
+### Explanation of Tiers
+
+1. Includes one-year subscription Instituto Dourados Quarterly Journal. 
+2. The donor's name, or the name of someone the donor wants to honor, will be
+   published on the website. The donor may add a short message as well.
+3. These tiers are classified as a _Major Contribution_ at GPD. Please contact
+   our giving team to make personalized arrangements:
+   [giving@gpdamericas.org](mailto:giving@gpdamericas.org). We will be happy to
+   welcome you as a Generation of Participation in Democracy partner if it is
+   indeed a good fit for both parties.
+
 
 ## Donate
 
@@ -35,7 +59,9 @@ The **Reader** tier includes a complimentary yearly subscription to the *Institu
 [Give $1 or more](#){.btn .btn-primary target="\_blank"}
 :::
 
+
 <br>
+
 
 ## Major Contributions
 
