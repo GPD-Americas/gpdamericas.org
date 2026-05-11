@@ -2,6 +2,8 @@ project:
   type: website
 
 website:
+  favicon: favicon.png
+  open-graph: true
   title: "GPD Américas"
   navbar:
     left:
@@ -9,6 +11,7 @@ website:
         text: Home
       - href: institutodourados.qmd
       - href: giving.qmd
+      - href: governance.qmd
 
     background: "#b0c7c4"
     foreground: "#628089"
