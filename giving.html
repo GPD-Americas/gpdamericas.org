@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – GPD Américas</title>
+<title>Support GPD Américas – GPD Américas</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -43,9 +44,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-47810c154300ff919bfcc5fb5553b539.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,11 +74,43 @@ ul.task-list li input[type="checkbox"] {
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Support GPD Américas – GPD Américas">
+<meta property="og:description" content="">
+<meta property="og:site_name" content="GPD Américas">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -102,8 +132,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./institutodourados.html"> 
+<span class="menu-text">Instituto Dourados</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./giving.html" aria-current="page"> 
+<span class="menu-text">Support GPD Américas</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./governance.html"> 
+<span class="menu-text">Governance Documents</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -116,13 +154,28 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#support-the-generation-of-participation-in-democracy" id="toc-support-the-generation-of-participation-in-democracy" class="nav-link active" data-scroll-target="#support-the-generation-of-participation-in-democracy">Support the Generation of Participation in Democracy</a></li>
+  <li><a href="#contribution-tiers" id="toc-contribution-tiers" class="nav-link" data-scroll-target="#contribution-tiers">Contribution Tiers</a>
+  <ul class="collapse">
+  <li><a href="#explanation-of-tiers" id="toc-explanation-of-tiers" class="nav-link" data-scroll-target="#explanation-of-tiers">Explanation of Tiers</a></li>
+  </ul></li>
+  <li><a href="#donate" id="toc-donate" class="nav-link" data-scroll-target="#donate">Donate</a></li>
+  <li><a href="#major-contributions" id="toc-major-contributions" class="nav-link" data-scroll-target="#major-contributions">Major Contributions</a></li>
+  <li><a href="#transparency" id="toc-transparency" class="nav-link" data-scroll-target="#transparency">Transparency</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="giving.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Support GPD Américas</h1>
 </div>
 
 
@@ -139,22 +192,94 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The Generation of Participation in Democracy was founded by <a href="https://mat.phd">Dr.&nbsp;Matthew A. Turner</a> as a center of innovation to secure the foundations of a shared sustainable future for all Americans—which here means every resident of South or North America, in agreement and solidarity with Benito Bunny.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="BenitoBunny.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="“Together We Are America”"><img src="BenitoBunny.png" class="img-fluid figure-img" width="600" alt="“Together We Are America”"></a></p>
-<figcaption>“Together We Are America”</figcaption>
-</figure>
+<section id="support-the-generation-of-participation-in-democracy" class="level2">
+<h2 class="anchored" data-anchor-id="support-the-generation-of-participation-in-democracy">Support the Generation of Participation in Democracy</h2>
+<p>Your support enables the development of sustainable, participatory institutions across the Americas. Currently, 100% of contributions go to fund research, field programs, and infrastructure through our Flagship Institute, Instituto Dourados. Once we can fund the first two years of operation of Instituto Dourados we may consider expanding GPD’s institutional portfolio, allocating resources beyond just Instituto Dourados.</p>
+<p>Opportunities to support other GPD Américas organizations will be announced as they become available.</p>
+</section>
+<section id="contribution-tiers" class="level2">
+<h2 class="anchored" data-anchor-id="contribution-tiers">Contribution Tiers</h2>
+<p>The following table lists the minimum contribution for six tiers of support. Different tiers have different perks, as indicated by superscripts and explained following the table.</p>
+<table class="table">
+<colgroup>
+<col style="width: 22%">
+<col style="width: 26%">
+<col style="width: 51%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tier</th>
+<th>Min. Contribution</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Founder<span class="math inline">\(^{1,2,3}\)</span></td>
+<td>$1,000,000</td>
+<td>Institutional founding support</td>
+</tr>
+<tr class="even">
+<td>Platinum<span class="math inline">\(^{1,2,3}\)</span></td>
+<td>$100,000</td>
+<td>Major program sponsorship</td>
+</tr>
+<tr class="odd">
+<td>Gold<span class="math inline">\(^{1,2,3}\)</span></td>
+<td>$10,000</td>
+<td>Program and research support</td>
+</tr>
+<tr class="even">
+<td>Silver<span class="math inline">\(^{1,2}\)</span></td>
+<td>$1,000</td>
+<td>Travel and entry-level salary</td>
+</tr>
+<tr class="odd">
+<td>Reader<span class="math inline">\(^{1}\)</span></td>
+<td>$100</td>
+<td>Help pay infrastructure costs</td>
+</tr>
+<tr class="even">
+<td>Hero</td>
+<td>≥ $1</td>
+<td>Help as you are able, and you’re our hero</td>
+</tr>
+</tbody>
+</table>
+<section id="explanation-of-tiers" class="level3">
+<h3 class="anchored" data-anchor-id="explanation-of-tiers">Explanation of Tiers</h3>
+<ol type="1">
+<li>Includes one-year subscription Instituto Dourados Quarterly Journal.</li>
+<li>The donor’s name, or the name of someone the donor wants to honor, will be published on the website. The donor may add a short message as well.</li>
+<li>These tiers are classified as a <em>Major Contribution</em> at GPD. Please contact our giving team to make personalized arrangements: <a href="mailto:giving@gpdamericas.org">giving@gpdamericas.org</a>. We will be happy to welcome you as a Generation of Participation in Democracy partner if it is indeed a good fit for both parties.</li>
+</ol>
+</section>
+</section>
+<section id="donate" class="level2">
+<h2 class="anchored" data-anchor-id="donate">Donate</h2>
+<p><br></p>
+<div class="text-center">
+<p><a href="#" class="btn btn-primary" target="_blank">Become a Reader — $75/year</a></p>
+<p><br></p>
+<p><a href="#" class="btn btn-primary" target="_blank">Give $1 or more</a></p>
 </div>
-<section id="democracy-and-sustainability" class="level3">
-<h3 class="anchored" data-anchor-id="democracy-and-sustainability">Democracy Needs Sustainability</h3>
-<p>To make <em>sustainability</em> concrete, we adopt the outlined in seventeen pillars by the United Nations Sustainable Development Goals (SDGs), which I organize in what I call the <strong>Sustainability VIBE</strong>: sustainability happens when Vibrant <em>Institutions</em> provide the <em>Basic</em> requirements for <em>Environmental</em> or <em>Ecological</em> protections. Those institutions work best when those affected by the institutional decisions control those institutions, which can only happen when basic needs are met.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="VIBE-illustration.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Catch the Sustainability VIBE"><img src="VIBE-illustration.png" class="img-fluid figure-img" width="700" alt="Catch the Sustainability VIBE"></a></p>
-<figcaption>Catch the Sustainability VIBE</figcaption>
-</figure>
-</div>
+<p><br></p>
+</section>
+<section id="major-contributions" class="level2">
+<h2 class="anchored" data-anchor-id="major-contributions">Major Contributions</h2>
+<p>Founder, Platinum, and Gold contributions are coordinated directly to align with specific programs and reporting.</p>
+<ul>
+<li><strong>GPD Américas — Giving</strong><br>
+<a href="mailto:giving@gpdamericas.org">giving@gpdamericas.org</a></li>
+</ul>
+</section>
+<section id="transparency" class="level2">
+<h2 class="anchored" data-anchor-id="transparency">Transparency</h2>
+<p>All contributions are governed under our public benefit mission and transparency principles. Currently anticipated budget allocations and funding scenarios are published on the Instituto Dourados page.</p>
+<ul>
+<li><strong>GPD Américas — Transparency</strong><br>
+<a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a></li>
+</ul>
 
 
 </section>
@@ -233,7 +358,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/gpdamericas\.org");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -561,38 +686,6 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

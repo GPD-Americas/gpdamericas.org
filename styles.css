@@ -25,7 +25,7 @@ h1, h2, h3, h4, .header-title {
 
 main#quarto-document-content {
   text-align: justify !important;
-  max-width: 75ch;
+  max-width: 80ch;
   font-size: 18px !important;
 }
 
@@ -46,7 +46,7 @@ main#quarto-document-content {
 }
 
 .navbar-title:hover {
-  color: #3d5056; /* Your light sage color */
+  color: #3d5056; 
 }
 
 h1#brand-title {

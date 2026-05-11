@@ -1,0 +1,43 @@
+---
+title: "Support GPD Américas"
+format: html
+---
+
+# Support the Generation of Participation in Democracy
+
+Your support enables the development of sustainable, participatory institutions across the Americas. Contributions fund research, field programs, and infrastructure through our flagship institute, Instituto Dourados.
+
+## Contribution Tiers
+
+| Tier     | Minimum Contribution | Description |
+|----------|---------------------|-------------|
+| Founder  | $1,000,000          | Institutional founding support |
+| Platinum | $100,000            | Major program sponsorship |
+| Gold     | $10,000             | Program and research support |
+| Silver   | $1,000              | Core operational support |
+| Reader   | $75/year            | Includes annual journal subscription |
+| Hero     | ≥ $1                | Open participation |
+
+The **Reader** tier includes a complimentary yearly subscription to the *Instituto Dourados Quarterly Journal*.
+
+## Donate
+
+:::{.text-center}
+[Become a Reader — $75/year](#){.btn target="\_blank"}
+
+[Give $1 or more](#){.btn target="\_blank"}
+:::
+
+## Major Contributions
+
+Founder, Platinum, and Gold contributions are coordinated directly to align with specific programs and reporting.
+
+- **GPD Américas — Giving**  
+  [giving@gpdamericas.org](mailto:giving@gpdamericas.org)
+
+## Transparency
+
+All contributions are governed under our public benefit mission and transparency principles. Budget allocations and funding scenarios are published on the Instituto Dourados page.
+
+- **GPD Américas — Transparency**  
+  [transparency@gpdamericas.org](mailto:transparency@gpdamericas.org)
