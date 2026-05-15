@@ -1,5 +1,5 @@
-<h1 id="brand-title">Generation of Participation in Democracy (GPD)</h1>
-<h2 id="brand-subtitle">A Sustainable Operating System for the Americas</h2>
+<h1 id="brand-title">Generation of Participation in Democracy</h1>
+<h2 id="brand-subtitle">Sustainable Operating Systems <br> for the Americas</h2>
 
 
 
@@ -24,11 +24,22 @@ sharing.</p>
 institutions to analyze sensitive data locally, maintaining data sovereignty
 while supporting real-time decision-making.</p>
 
-<h3>Corporate Information</h3>
+<h3 style="margin-bottom: 15px;">Corporate Information</h3>
 
-<p><strong>Legal Structure:</strong>  California Public Benefit Corporation<br>
-<strong>IRS Employer Identification Number (EIN):</strong>  41-4992916<br>
-<strong>Transparency inquiries/concerns:</strong>  <a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a></p>
+<p>
+  <strong>Legal Structure:</strong> California Public Benefit Corporation
+</p>
+
+<p><strong>IRS Employer Identification Number (EIN):</strong> 41-4992916</p>
+
+<p><strong>GPD is under review for IRS 501(c)(3) tax-exemption.</strong></p> 
+
+<p><strong>Organizing Documents:</strong> see our [Governance Documents
+page](governance.qmd)</p>
+
+<p>
+  <strong>Transparency inquiries:</strong> <a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a>
+</p>
 
 <br>
 
@@ -50,10 +61,9 @@ Americas.
 
 ![](signature.jpg){width=200px}
 
-<p style="font-size: 22px">
+<p style="font-size: 20px">
 <strong>Matt Turner, PhD</strong>
 </p>
 
-<p>Founder & Architect, GPD Américas</p>
-
+<p style="font-size: 15px; margin-bottom: 5px;">Founder & Architect<br>GPD Américas</p>
 <p><a href="mailto:matt@mat.phd">Contact</a></p>
