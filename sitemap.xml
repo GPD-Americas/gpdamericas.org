@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gpdamericas.org/institutodourados.html</loc>
+    <lastmod>2026-05-15T04:52:57.571Z</lastmod>
+  </url>
+  <url>
     <loc>https://gpdamericas.org/governance.html</loc>
-    <lastmod>2026-05-11T22:53:51.221Z</lastmod>
+    <lastmod>2026-05-11T23:55:38.512Z</lastmod>
   </url>
   <url>
     <loc>https://gpdamericas.org/giving.html</loc>
@@ -10,10 +14,6 @@
   </url>
   <url>
     <loc>https://gpdamericas.org/index.html</loc>
-    <lastmod>2026-05-10T15:45:04.687Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gpdamericas.org/institutodourados.html</loc>
-    <lastmod>2026-05-11T19:33:53.758Z</lastmod>
+    <lastmod>2026-05-14T20:36:27.718Z</lastmod>
   </url>
 </urlset>
