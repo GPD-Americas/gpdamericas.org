@@ -86,6 +86,7 @@ The 2026 bridge year is designed to:
 The immediate Q2 2026 sprint budget is designed to stabilize core organizational operations, support continuity of leadership and collaboration, and enable the next phase of publication, fundraising, and field coordination activity.
 
 This sprint sequence prioritizes:
+
 - continuity of institutional labor already performed during the startup phase
 - stabilization of director capacity
 - launch-phase fundraising and publication infrastructure
@@ -258,4 +259,4 @@ seniority through guided professional development programs.
 A conservative estimate for our yearly operating budget by year 2036 is $3M.
 Our first ten years will require a total endowment of at least $20M.
 
-![](TOTAL PERSONNEL COST vs. YEAR.svg)
+<!-- ![](TOTAL PERSONNEL COST vs. YEAR.svg) -->
