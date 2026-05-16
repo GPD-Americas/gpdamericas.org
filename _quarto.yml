@@ -8,7 +8,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Mission
       - href: institutodourados.qmd
       - href: giving.qmd
       - href: governance.qmd

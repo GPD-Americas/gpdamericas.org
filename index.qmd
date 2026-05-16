@@ -2,8 +2,6 @@
 <h2 id="brand-subtitle">Sustainable Operating Systems <br> for the Americas</h2>
 
 
-
-
 <p><strong>Public Benefit Mission.</strong> GPD is a California Public Benefit Corporation advancing sustainable, participatory societies across the Americas. Our specific public benefit is to strengthen democratic capacity, public health, and institutional resilience through integrated social science, technology, and field-based collaboration.</p>
 
 <p><strong>Transparency.</strong> Meaningful democratic participation requires transparency. GPD operates under a principle of radical transparency wherever possible—making methods, data practices, and institutional decisions legible and accountable to the communities we serve.</p>

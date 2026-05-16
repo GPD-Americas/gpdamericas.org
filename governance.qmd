@@ -1,12 +1,12 @@
 ---
-title: "Governance Documents"
+title: "Organizing Document"
 format:
   html:
     toc: true
   pdf: default
 ---
 
-# Generation of Participation in Democracy
+## Generation of Participation in Democracy
 
 This page contains founding documents for the formation of a California Public
 Benefit corporation and Internal Revenue Service tax exemption under section

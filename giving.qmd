@@ -1,5 +1,5 @@
 ---
-title: "Support GPD Américas"
+title: "Giving"
 format: 
   html:
     tbl-cap-location: bottom
@@ -8,7 +8,7 @@ format:
 
 ---
 
-## Support the Generation of Participation in Democracy
+<h2 style="font-size: 18px; margin-top: 5px;">Support the Generation of Participation in Democracy</h2>
 
 Your support enables the development of sustainable, participatory institutions
 across the Americas. Currently, 100% of contributions go to fund research, field programs, and infrastructure through our Flagship Institute, Instituto Dourados.
@@ -49,23 +49,18 @@ explained following the table.
 
 ## Donate
 
-<br>
-
-:::{.text-center}
-[Become a Reader — $75/year](#){.btn .btn-primary target="\_blank"}
-
-<br>
-
-[Give $1 or more](#){.btn .btn-primary target="\_blank"}
-:::
+For donations less than \$1000, please donate to our current fundraising sprint
+to avoid founder burnout via GoFundMe:
 
 
-<br>
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
 
 ## Major Contributions
 
-Founder, Platinum, and Gold contributions are coordinated directly to align with specific programs and reporting.
+Founder, Platinum, Gold, and Silver contributions are coordinated directly to
+align with specific programs and reporting. Please contact our Giving team to
+make arrangements.
 
 - **GPD Américas — Giving**  
   [giving@gpdamericas.org](mailto:giving@gpdamericas.org)

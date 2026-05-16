@@ -3,11 +3,12 @@ title: "Instituto Dourados"
 format: 
   html: 
     toc: true
+    toc-depth: 4
   pdf: default
 tbl-cap-location: bottom
 ---
 
-## Flagship Budget & Plan for 2026-27 and 2026-2036
+## Flagship Plan for 2026-27 and 2026-2036
 
 Instituto Dourados ([institutodourados.org](https://institutodourados.org)) 
 is the Flagship Institute of the Generation of Participation
@@ -27,6 +28,21 @@ DOURADOS](https://docs.google.com/spreadsheets/d/1gdWVrJpWXlZVfzygsjTp1xVc7yRpUX
 Please see the [_Success Scenarios_](https://docs.google.com/spreadsheets/d/1gdWVrJpWXlZVfzygsjTp1xVc7yRpUXZq2SB77ctCBTg/edit?gid=1702619168#gid=1702619168)
 that show two possible combinations of donor types and amounts to reach our
 budget goals this year and next.
+
+For donations less than \$1000, please donate to our current fundraising sprint
+to _**avoid founder burnout**_ via GoFundMe:
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/launch-an-exchange-program-to-boost-indigenous-public-health/widget/large?sharesheet=undefined&attribution_id=sl:ba86e4ce-71f4-4aab-b267-c30e9bf546a7"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
+For larger gifts, please contact our Giving team to make arrangements.
+
+- **GPD Américas — Giving**  
+  [giving@gpdamericas.org](mailto:giving@gpdamericas.org)
+
+The Generation of Participation in Democracy is a nonprofit California Public
+Benefit Corporation with 501(c)(3) tax exemption pending approval (IRS Employer
+Identification Number 41-4992916). Please [see our Corporate
+Information](index.qmd) on our Mission page for more details.
 
 
 ## Purpose and Plan for 2026–2027
@@ -50,7 +66,10 @@ exchange program by 2027. In 2027 we will expand staffing to support more studen
 intern trainees and add a new field site, likely in the state of Bahia.
 
 _Self-sustaining_ here means the Instituto's endowment reaches a level
-to guarantee 5-10 years of a growth-oriented budget (see .
+to guarantee 5-10 years of a growth-oriented budget. For details, see the
+publicly-available Google Sheet within our launch budget file, ["Ten-year Human
+Resources
+Projection"](https://docs.google.com/spreadsheets/d/1gdWVrJpWXlZVfzygsjTp1xVc7yRpUXZq2SB77ctCBTg/edit?gid=1145667153#gid=1145667153).
 
 ## 2026 Bridge Budget
 
@@ -71,7 +90,7 @@ The 2026 bridge year is designed to:
 
 | Category   | Item            | Description                   | Cost     |
 |------------|-------------------|-------------------------------|----------|
-| Personnel  | Dr. Rezende     | 9 Mo. @ $150k/yr, .2 FTE) | $23k  |
+| Personnel  | Dr. Rezende     | 9 Mo. @ $150k/yr, .2 FTE | $23k  |
 | Personnel  | Dr. Turner      | 9 Mo. @ $150k/yr  | $113k |
 | Personnel  | Benefits/Tax    | 25% Burden     | $34k  |
 | Operations | Field Sprints   | Dourados, Bahia, MedTrop      | $38k  |
@@ -131,7 +150,7 @@ This field sprint supports:
 Fundraising for this sprint will be done through a specific [GoFundMe
 fundraiser](https://gofund.me/cb94dd44a).
 
-#### Accounting for GoFundMe 2.9% fee on total donations
+#### Accounting for GoFundMe 2.9% fee
 
 GoFundMe takes a 2.9% cut from all funds, so to calculate the gross amount
 needed to obtain the goal amount to cover Q2 as the net, we need to _gross up_
@@ -165,8 +184,9 @@ the necessary insurance and legal representation for developing international
 educational travel and social service programs like ours.
 
 The final step in the Q2 sprint is to raise enough money to fund our first
-_encontro_ to travel to Brazil to introduce
-our Executive Scientist and Junior Infrastructure Intern to their Brazilian
+_reunião_ to travel to Brazil to introduce
+our latest recruits, Assistant Executive Scientist Manjari Mishari and Junior Infrastructure Intern 
+[Mariana Barreto Alcantara](https://institutodourados.org/pt/#mariana-barreto-alcantara-estagi%C3%A1ria-de-pesquisa-j%C3%BAnior) to meet their Brazilian
 counterparts and academic partners in Dourados, plus tour the Reserva and
 hospital systems. 
 
